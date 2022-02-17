@@ -1,4 +1,4 @@
-<h3>Section 1</h2>
+<h2>Section 1</h2>
 <ol>
     <li>Simple Arithmetic</li>
     <li>Variable Assignments</li>
@@ -14,16 +14,16 @@
     <li>Sets</li>
     <li>Booleans</li>
 </ol>
-<h3>Section 2</h3>
+<h2>Section 2</h2>
 <ol>
     <li>Basic File I/O</li>
 </ol>
-<h3>Section 3</h3>
+<h2>Section 3</h2>
 <ol>
     <li>Comparison Operators</li>
     <li>Logical Operators</li>
 </ol>
-<h3>Section 4</h3>
+<h2>Section 4</h2>
 <ol>
     <li>If, Elif and Else Statements</li>
     <li>If Expressions</li>

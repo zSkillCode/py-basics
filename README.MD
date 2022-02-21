@@ -49,3 +49,10 @@
     <li>Lambda Expressions</li>
     <li>Reassigning global variables</li>
 </ol>
+<h2>Section 6 - OOP</h2>
+<ol>
+    <li>Classes</li>
+    <li>Class Object Attributes and Methods</li>
+    <li>Inheritance and Polymorphism</li>
+    <li>Special Methods</li>
+</ol>

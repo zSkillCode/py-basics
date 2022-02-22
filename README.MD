@@ -66,7 +66,7 @@
     <li>Errors and Exception Handling</li>
     <li>Unit Tests</li>
 </ol>
-<h1>Section 9 - Decorators and Generators</h1>
+<h2>Section 9 - Decorators and Generators</h2>
 <ol>
     <li>Decorators</li>
     <li>Generators</li>

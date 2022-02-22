@@ -56,3 +56,8 @@
     <li>Inheritance and Polymorphism</li>
     <li>Special Methods</li>
 </ol>
+<h2>Section 7 - Modules and </h2>
+<ol>
+    <li>Modules and Packages</li>
+    <li>__name__ and "__main__"</li>
+</ol>

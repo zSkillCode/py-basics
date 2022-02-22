@@ -64,5 +64,10 @@
 <h2>Section 8 - Errors and Exception Handling</h2>
 <ol>
     <li>Errors and Exception Handling</li>
-    <li>Unit Tests</h1>
+    <li>Unit Tests</li>
+</ol>
+<h1>Section 9 - Decorators and Generators</h1>
+<ol>
+    <li>Decorators</li>
+    <li>Generators</li>
 </ol>

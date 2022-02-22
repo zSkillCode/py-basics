@@ -61,3 +61,8 @@
     <li>Modules and Packages</li>
     <li>__name__ and "__main__"</li>
 </ol>
+<h2>Section 8 - Errors and Exception Handling</h2>
+<ol>
+    <li>Errors and Exception Handling</li>
+    <li>Unit Tests</h1>
+</ol>

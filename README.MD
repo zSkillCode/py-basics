@@ -71,3 +71,13 @@
     <li>Decorators</li>
     <li>Generators</li>
 </ol>
+<h2>Section 10 - Advanced Modules</h2>
+<ol>
+    <li>Collections Module</li>
+    <li>OS Module</li>
+    <li>Datetime Module</li>
+    <li>Math and Random Modules</li>
+    <li>Regular Expressions (Regex)</li>
+    <li>Timeit Module</li>
+    <li>Zipping and Unzipping Files</li>
+</ol>
